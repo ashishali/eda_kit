@@ -49,4 +49,9 @@ eda_output/
 .DS_Store
 Thumbs.db
 
+.pypirc
+MANIFEST.in
+upload_to_pypi.sh
+setup.py
+
 

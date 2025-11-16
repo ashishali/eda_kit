@@ -17,7 +17,7 @@ A completely automatic Python library for performing comprehensive Exploratory D
 ### From PyPI (Recommended)
 
 ```bash
-pip install eda-kit
+pip install quickeda-kit
 ```
 
 ### From Source
