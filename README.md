@@ -4,13 +4,13 @@ A completely automatic Python library for performing comprehensive Exploratory D
 
 ## Features
 
-✨ **Fully Automatic**: Just provide your dataset and the library does the rest  
-🔍 **Intelligent Missing Value Handling**: Automatically decides whether to use mean, median, mode, drop, or fill strategies  
-📊 **Comprehensive EDA**: Statistics, distributions, correlations, outliers, and more  
-📈 **Visualizations**: Automatic generation of plots and charts  
-📝 **Detailed Reports**: Complete summary of all analysis performed  
-💬 **Interactive**: Asks user questions when input is needed (train-test split, etc.)  
-🎯 **Model-Ready**: Prepares your dataset for machine learning model building
+**Fully Automatic**: Just provide your dataset and the library does the rest  
+**Intelligent Missing Value Handling**: Automatically decides whether to use mean, median, mode, drop, or fill strategies  
+**Comprehensive EDA**: Statistics, distributions, correlations, outliers, and more  
+**Visualizations**: Automatic generation of plots and charts  
+**Detailed Reports**: Complete summary of all analysis performed  
+**Interactive**: Asks user questions when input is needed (train-test split, etc.)  
+**Model-Ready**: Prepares your dataset for machine learning model building
 
 ## Installation
 
